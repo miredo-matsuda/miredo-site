@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miredo.co.jp/sitemap.xml
